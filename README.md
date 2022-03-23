@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Olya 👋
+:books: I'm currently studying Computer Science M. Sc. @ TU Darmstadt <br />
+:pushpin: I'm currently on a semester abroad @ ITMO University in St. Petersburg
+
 
 <!--
 **OlyaBay96/OlyaBay96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
